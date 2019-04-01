@@ -1,4 +1,4 @@
-# programa_talentos_nl_2019
+# Programa Talentos NL 2019
 
 Este repositório servirá para armazenar os exercícios feitos durante o treinamento de python.
 
