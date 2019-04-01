@@ -10,9 +10,9 @@
 3. Faça um Programa que peça um valor e mostre na tela se o valor é positivo ou negativo.
 
 4. Faça um programa para a leitura de duas notas parciais de um aluno. O programa deve calcular a média alcançada por aluno e apresentar:
-a. A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
-b. A mensagem "Reprovado", se a média for menor do que sete;
-c. A mensagem "Aprovado com Distinção", se a média for igual a dez.
+- A mensagem "Aprovado", se a média alcançada for maior ou igual a sete;
+- A mensagem "Reprovado", se a média for menor do que sete;
+- A mensagem "Aprovado com Distinção", se a média for igual a dez.
 
 5. Faça um programa que transforme uma temperatura fornecida em Celsius para a correspondente em Fahrenheit. A formula de conversão de Celsius  para Fahrenheit é a seguinte: C = (5/9) * (F – 32).
 
