@@ -17,3 +17,11 @@ Observações
 ## Entrega
 
 Coloque o arquivo fonte nesta pasta, no nome do arquivo Coloque seu nome. Ex: paulo.py
+
+
+## Dicas
+
+- [List Comprehensions no Python](https://pythonacademy.com.br/blog/list-comprehensions-no-python)
+- [Regular expression operations](https://docs.python.org/3/library/re.html)
+- [Expressões regulares em Python](http://turing.com.br/material/regex/python_re.html)
+- [Map, Filter and Reduce](http://book.pythontips.com/en/latest/map_filter.html)

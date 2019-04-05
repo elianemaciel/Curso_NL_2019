@@ -24,3 +24,11 @@ Saida:
 ## Entrega
 
 Coloque o arquivo fonte nesta pasta, no nome do arquivo Coloque seu nome. Ex: paulo.py
+
+
+## Dicas
+
+- [Built-in Functions](https://docs.python.org/3.6/library/functions.html)
+- [Operator](https://docs.python.org/3.6/library/operator.html)
+- [List Comprehensions in Python](https://www.pythonforbeginners.com/basics/list-comprehensions-in-python)
+- [Map, Filter and Reduce](http://book.pythontips.com/en/latest/map_filter.html)
