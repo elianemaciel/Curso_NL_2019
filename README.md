@@ -6,7 +6,7 @@ Este repositório servirá como guia para os exercícios feitos durante o treina
 
 - Nas pastas exercício 1, 2, 3 e 4, tem um exercício este deve ser postado individualmente.
 - Na pasta de exercícios, contem varios exercícios. Para cada exercício, deve ser colocado o seu nome e o numero do exercício.
-- Desafios: [hackerrank](www.hackerrank.com/programa-de-talentos-nl)
+- Desafios: HackerRank <www.hackerrank.com/programa-de-talentos-nl>
 
 Ex: exerc1_eliane.py
 
