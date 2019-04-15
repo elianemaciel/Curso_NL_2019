@@ -1,4 +1,4 @@
 # Leia um número e imprima seu dobro​.
 
-num = int('Digite um número: ')
+num = int(input('Digite um número: '))
 print('O dobro do número {} é {}.'.format(num, num * 2))
