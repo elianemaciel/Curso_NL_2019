@@ -1,10 +1,10 @@
-a = 14
+a = 11
 b = 14
-c = 8
+c = 14
 
 if a == b and b == c:
     print("Triângulo equilátero!")
-elif a == b and a == c and b == c:
+elif a == b or b == c:
     print("Triângulo isóscelos!")
 elif a != b and b != c:
     print ("Triângulo escaleno!")
