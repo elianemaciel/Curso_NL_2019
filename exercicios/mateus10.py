@@ -1,6 +1,6 @@
-a = 11
-b = 14
-c = 14
+a = input("Lado A: ")
+b = input("Lado B: ")
+c = input("Lado C: ")
 
 if a == b and b == c:
     print("Triângulo equilátero!")
