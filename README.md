@@ -62,6 +62,33 @@ Ex: exerc1_eliane.py
     Triângulo Isósceles: quaisquer dois lados iguais;
     Triângulo Escaleno: três lados diferentes;
 
+## Extras:
+
+- Trabalhando com strings:
+    - *multstring*: seja uma string s e um inteiro positivo n retorna uma string com n cópias da string original multstring('Hi', 2) -> 'HiHi'
+    - *string_splosion*: string_splosion('Code') -> 'CCoCodCode', string_splosion('abc') -> 'aababc', string_splosion('ab') -> 'aab'
+    - *array_count9*: conta quantas vezes aparece o 9 numa lista nums
+    - *array_front9*: verifica se pelo menos um dos quatro primeiros é nove, array_front9([1, 2, 9, 3, 4]) -> True
+    array_front9([1, 2, 3, 4, 9]) -> False, array_front9([1, 2, 3, 4, 5]) -> False
+    - *hello_name*: seja uma string name hello_name('Bob') -> 'Hello Bob!'
+    - *make_tags*: make_tags('i', 'Yay'), '<i>Yay</i>', make_tags('i', 'Hello'), '<i>Hello</i>'
+    - *I. sem_pontas* - seja uma string s de pelo menos dois caracteres retorna uma string sem o primeiro e último caracter - without_end('Hello') -> 'ell'
+- Dizemos que um número natural é triangular se ele é produto de três números naturais
+consecutivos. Exemplo: 120 é triangular, pois 4.5.6 = 120. Dado um inteiro não-negativo n,
+verificar se n é triangular.
+
+- Indique como um troco deve ser dado utilizando-se um número mínimo de notas. Seu
+algoritmo deve ler o valor da conta a ser paga e o valor do pagamento efetuado desprezando
+os centavos. Suponha que as notas para troco sejam as de 50, 20, 10, 5, 2 e 1 reais, e que
+nenhuma delas esteja em falta no caixa.
+
+- Verifique se um inteiro positivo n é primo.
+
+- Dado um número inteiro positivo, determine a sua decomposição em fatores primos
+calculando também a multiplicidade de cada fator.
+
+- Faça um programa que peça um inteiro positivo e o mostre invertido. Ex.: 1234 gera 4321
+
 ## DESAFIO
 
 - [Exercicio 4](exercicio_4/README.md)
