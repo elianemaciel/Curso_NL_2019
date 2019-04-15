@@ -6,10 +6,10 @@ def multString(valor):
 
 
 def stringSplosion(string):
-	result = ' '
-	for i in range(len(string)):
-		result = result + string[:i + 1]
-	print(result)
+   result = ' '
+   for i in range(len(string)):
+       result = result + string[:i + 1]
+   print(result)
 
 #stringSplosion("Code")	# output -> CCoCodCode
 
