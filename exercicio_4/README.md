@@ -5,10 +5,29 @@ Desenvolva um programa que simule a entrega de notas quando um cliente efetuar u
 - Entregar o menor número de notas;​
 - É possível sacar o valor solicitado com as notas disponíveis;​
 - Saldo do cliente infinito;​
-- Quantidade de notas infinito (pode-se colocar um valor finito de cédulas para aumentar a dificuldade do problema);​
+- Quantidade de notas finito - Considerar 6 notas de cada;​
 - Notas disponíveis de R$ 100,00; R$ 50,00; R$ 20,00 e R$ 10,00​
 
 ## Exemplos:​
 
 - Valor do Saque: R$ 30,00 – Resultado Esperado: Entregar 1 nota de R$20,00 e 1 nota de R$ 10,00.​
 - Valor do Saque: R$ 80,00 – Resultado Esperado: Entregar 1 nota de R$50,00 1 nota de R$ 20,00 e 1 nota de R$ 10,00. ​​
+
+## Testes
+
+Testar os seguintes saques:
+
+- 10
+- 20
+- 50
+- 100
+- 30
+- 80
+- 0
+- 480
+- 485
+- 695
+
+>> Dica:
+ /  -> Divisão
+ // -> Divisão Inteira 
