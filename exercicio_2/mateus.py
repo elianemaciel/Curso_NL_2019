@@ -10,10 +10,7 @@ ascValorVendas = sorted(vendedores, key=(lambda x: x['value']))
 descValorVendas = ascValorVendas.reverse()
 
 def bestSeller():
-    nome = maiorVendedor['name']
-    store = maiorVendedor['store']
-    value = maiorVendedor['value']
-    print("Melhor vendedor: {}\nLoja: {}\nTotal Vendido: {}".format(nome, store, value))
+    print("Melhor vendedor: {}\nLoja: {}\nTotal Vendido: {}".format(maiorVendedor['name'], maiorVendedor['store'], maiorVendedor['value']))
 
 def ascSeller():
     ascNames = [ascValorVendas[i]["name"] for i in range(len(ascValorVendas))]
@@ -22,3 +19,5 @@ def ascSeller():
 def descSeller():
     descNames = [descValorVendas[i]["name"] for i in range(len(descValorVendas))]
     print(descNames)
+
+bestSeller()
