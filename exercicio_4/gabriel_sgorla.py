@@ -1,3 +1,5 @@
+'''Trabalho feito por david, gabriel rech e gabriel sgorla'''
+
 nota100 = 6
 nota50 = 6
 nota20 = 6
@@ -7,7 +9,6 @@ notas = 0
 while True:
 
     saque = int(input("Digite quanto sacar: "))
-
 
     if saque // 100 >= 1 and nota100 > 0:
         notas = saque // 100
@@ -32,4 +33,5 @@ while True:
     if nota100 == 0 and nota50 == 0 and nota20 == 0 and nota10 == 0:
         print("Saque nao disponivel!")
         break
+
 print("Fim do programa")
