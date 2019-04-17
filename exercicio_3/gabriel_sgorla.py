@@ -1,3 +1,4 @@
+'''Exercicio feito por David, Gabriel Rech, Gabriel Sgorla'''
 from datetime import datetime
 
 
