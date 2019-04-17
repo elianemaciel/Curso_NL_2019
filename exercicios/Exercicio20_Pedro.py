@@ -1,4 +1,4 @@
-#jaqueline e pedro
+#pedro e jaqueline
 import random
 
 # (random)Tendo como exemplo estas duas listas:
