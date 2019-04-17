@@ -1,3 +1,5 @@
+# Desenvolvido por Jaqueline e Pedro
+
 from datetime import datetime
 import traceback
 
