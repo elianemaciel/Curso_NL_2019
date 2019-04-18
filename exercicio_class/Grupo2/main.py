@@ -1,3 +1,5 @@
+""" David, Jaqueline, Gabriel, Junior"""
+
 from conta import Conta
 from cliente import Cliente
 from data import Data
