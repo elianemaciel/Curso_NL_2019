@@ -1,6 +1,6 @@
 # Programa Talentos NL 2019
 
-Este repositório servirá como guia para os exercícios feitos durante o treinamento de python.
+Este repositório servirá como guia para os exercícios feitos durante o treinamento de python ministrado por mim.
 
 ## Submissão dos exercícios
 
