@@ -1,6 +1,8 @@
-# Programa Talentos NL 2019
+# Bem-vindo ao Programa de Talentos 2023!
 
-Este repositório servirá como guia para os exercícios feitos durante o treinamento de python ministrado por mim.
+## 🚀 Sobre o CakeERP
+
+O Cake é um produto desenvolvido pela NL Informática, uma empresa nacional que há mais de 40 anos vem construindo uma das mais sólidas carteiras de clientes na área de softwares de suporte à gestão. Todos os produtos NL são certificados e possuem um dos mais altos níveis de confiabilidade...
 
 ## Submissão dos exercícios
 
